@@ -16,8 +16,8 @@ create an user with Programmatic access using the AWS console and set the creden
 
 for our project we need two roles; 
 
-* one for lambda - AWS Lambda Full ACCESS policy, AWS Glue Service Role
-* one for glue. - AWS Glue Service Role, S3 FULL ACCESS
+* one for lambda - AWS Lambda Full Access policy, AWS Glue Service Role
+* one for glue. - AWS Glue Service Role, S3 Full Access
 
 create roles and for both these roles and keep the ARN somewhere accessible.
 
